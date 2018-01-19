@@ -13,5 +13,6 @@ end
 
 def move(board, position, player)
   board = Array.new(9, " ")
+  player = "X"
   board[position] = player
 end

@@ -10,3 +10,6 @@ end
 def input_to_index(input_user)
   return input_user.to_i - 1
 end
+
+def move(board, position, player)
+end

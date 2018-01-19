@@ -12,4 +12,5 @@ def input_to_index(input_user)
 end
 
 def move(board, position, player)
+  board = Array.new(9, " ")
 end

@@ -7,7 +7,7 @@ puts "Welcome to Tic Tac Toe!"
 
 board = Array.new(9, " ")
 
-print "Where would you like to go?"
+puts "Where would you like to go?"
 
 input = gets.strip
 
